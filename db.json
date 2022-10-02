@@ -1,0 +1,16 @@
+{
+  "todos":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "completed" : false
+    }
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
